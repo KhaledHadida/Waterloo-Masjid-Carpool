@@ -2,15 +2,15 @@ import React from 'react'
 import Header from '../common/header'
 import Footer from '../common/footer'
 
-const AboutPage = () => {
+const ContactPage = () => {
     return (
         <div>
             <Header />
-            <div>AboutPage</div>
+            <div>Contact Page</div>
             <Footer />
         </div>
 
     )
 }
 
-export default AboutPage
+export default ContactPage
